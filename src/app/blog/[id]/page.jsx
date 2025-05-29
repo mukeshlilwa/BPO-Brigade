@@ -2,7 +2,7 @@
 
 import React from "react";
 import { notFound } from "next/navigation";
-import BlogPost from "@/app/components/BlogPost.jsx";
+import BlogPost from "@/app/components/Blogpost/blogpost";
 
 const blogPosts = {
   "1": {
@@ -11,7 +11,7 @@ const blogPosts = {
       "The customer support landscape is undergoing a radical transformation with the advent of artificial intelligence. What was once a purely human-driven function is now being augmented—and in some cases replaced—by intelligent systems capable of handling complex queries with unprecedented efficiency.",
       "At BPO Brigade, we've been at the forefront of integrating AI solutions into our customer support operations. Our data shows that AI-powered chatbots can now handle up to 70% of routine customer inquiries without human intervention, while maintaining a customer satisfaction rating of over 90%.",
       "The key benefits we've observed include:\n\n- 24/7 availability without additional staffing costs\n- Consistent responses that adhere to brand guidelines\n- Ability to scale during peak periods without quality degradation\n- Valuable data collection for continuous improvement",
-      "However, the human element remains crucial. Our approach combines AI efficiency with human empathy, ensuring that complex or emotionally charged interactions are seamlessly transferred to skilled agents. This hybrid model delivers the best of both worlds—the speed and scalability of machines with the emotional intelligence of people.",
+      "However, the human element remains crucial. Our approach together Artificail Intelligence efficiency with human empathy, ensuring that complex or emotionally charged interactions are seamlessly transferred to skilled agents. This hybrid model delivers the best of both worlds—the speed and scalability of machines with the emotional intelligence of people.",
       "Looking ahead, we anticipate AI will continue to evolve, with natural language processing reaching near-human levels of understanding. The businesses that will thrive are those that strategically implement these technologies while maintaining a customer-centric approach."
     ],
     date: "May 15, 2023",
@@ -60,7 +60,7 @@ const blogPosts = {
     readTime: "6 min read",
     image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     author: {
-      name: "David Rodriguez",
+      name: "Steve Jobz",
       role: "Global Operations Director",
       avatar: "https://randomuser.me/api/portraits/men/75.jpg"
     }

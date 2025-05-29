@@ -19,7 +19,7 @@ const BlogPage = () => {
     {
       id: "1",
       title: "The Future of Customer Support in the AI Era",
-      excerpt: "How artificial intelligence is transforming customer service operations and what it means for businesses.",
+      excerpt: "How (AI) artificial intelligence  is transforming customer service operations and what it means for businesses.",
       date: "May 15, 2023",
       category: "Customer Support",
       readTime: "5 min read",
